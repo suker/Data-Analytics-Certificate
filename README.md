@@ -5,13 +5,14 @@
 
 # Week 1 Theory
 
-## Data Analytics
-THE SCIENCE OF DATA
+## TRANSFORMING DATA INTO INSIGHTS
+
+#### Data Analytics: the science of data
 
 #### DATA
-A collection of facts or information.
+**A collection of facts or information.**
 
-#### DATA ANALYSIS
+### DATA ANALYSIS
 The collection, transformation and organization of data in order to draw conclusions, make predictions and drive informed decision-making.
 
 THE SIX STEPS OF THE DATA ANALYSIS PROCESS ARE:
@@ -23,7 +24,7 @@ THE SIX STEPS OF THE DATA ANALYSIS PROCESS ARE:
 7. **ACT on the data and use the analysis results.**(*Putting your insights to work to solve the problem*).
 
 
-## WHAT IS BUSINESS ANALYTICS?
+### WHAT IS BUSINESS ANALYTICS?
 
 Business analytics is **"the use of math and statistics to derive meaning from data in order to make better business decisions"**
 
@@ -35,12 +36,12 @@ There are three types of business analytics: **descriptive, predictive and presc
 Across industries, these data-driven approaches (*enfoques basados en datos*) have been employed by professionals to make informed business decisions (*decisiones comerciales informadas*)and attain organizational success.
 
 
-## DATA ECOSYSTEMs
-
-The various elements that interact with one another in order to produce, manage, store, organize, analyze and share data.
 
 
-## Difference between Data Scientists vs Data Analyst
+## UNDERSTANDING THE DATA ECOSYSTEM
+**The various elements that interact with one another in order to produce, manage, store, organize, analyze and share data.**
+
+### Difference between Data Scientists vs Data Analyst
 
 #### Data science
 
@@ -140,6 +141,8 @@ Successful analysis needs to be accurate, and fast enough to help decision-maker
   8. Discovery
 </details>
 
+
+## GETTING TO KNOW THE PROGRAM EXPECTATIONS 
 
 
 
