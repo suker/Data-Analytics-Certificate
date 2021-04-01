@@ -17,7 +17,7 @@ The collection, transformation and organization of data in order to draw conclus
 THE SIX STEPS OF THE DATA ANALYSIS PROCESS ARE:
 1. **ASK questions to define the problem.** (*Business Challenge/Objective/Question*)
 2. **PREPARE data by collecting and storing the information.** (*Data generation, colleciton, storage and management*).
-4. **PROCESS data by cleaning and cheacking the information.**(*Data cleaning/Data integrity*)
+4. **PROCESS data by cleaning and checking the information.**(*Data cleaning/Data integrity*)
 5. **ANALYZE data to find patterns, relationships and trends.**(*Data exploration, visualization and analysis*)
 6. **SHARE data with yout audience.** (*communicating and interpreting results*)
 7. **ACT on the data and use the analysis results.**(*Putting your insights to work to solve the problem*).
@@ -28,7 +28,7 @@ THE SIX STEPS OF THE DATA ANALYSIS PROCESS ARE:
 Business analytics is **"the use of math and statistics to derive meaning from data in order to make better business decisions"**
 
 There are three types of business analytics: **descriptive, predictive and prescriptive**.
-- **Descriptive analytics**: is the intrerpretation of historical data to identify trernds and patterns.
+- **Descriptive analytics**: is the intrerpretation of historical data to identify trends and patterns.
 - **Predictive analytics**: centers on taking that information and using it to forecast future outcomes.
 - **Prescriptive analytics**: testing and other techniques are employed to determine which outcome will yield (*producir*) the best result in a give scenario.
 
@@ -50,7 +50,7 @@ Creating new ways of modeling and understanding the unknown by using raw data.
  
  ## Video: How data informs better decisions
  
- ### data-driven decision-making
+ ### data-driven decision-making (*toma de decisiones basada en datos*)
  
  Using facts to guide business strategy
  
